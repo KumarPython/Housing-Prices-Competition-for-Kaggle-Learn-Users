@@ -7,28 +7,24 @@
 ### LinkedIn - https://www.linkedin.com/in/kumarpython/
 
 ## My Steps
-Finding the Data-type of each column
-Finding the Percent of null values in each columns
-Finding the columns in each dataset
-Dropping some useless column.
-Finding Numerical & Categorical Features (to be treated seperately later)
-Finding the following Features (to be treated seperately later)
-Imputing the missing values
-Apply Log Transform on Continuous Data only
-Transforming Dates
-Standardizing the Discrete Values.
-Handling Categorical Data using Get_Dummies()
-Concatenating the Original Dataset & the One after creating Dummies(get_dummies()
-Dropping the columns already concatenated after Get_Dummies()
-Splitting X & y
-Doing the Train_Test_Split
-Using GBoost to fit the Data
-Using the Trained Model to Predict
-Scoring the Trained Model
-Some ways you may show Like by
-
-
-You have some experience with R or Python and machine learning basics. This is a perfect competition for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition. 
+1. Finding the Data-type of each column
+2 .Finding the Percent of null values in each columns
+3. Finding the columns in each dataset
+4. Dropping some useless column.
+5. Finding Numerical & Categorical Features (to be treated seperately later)
+6. Finding the following Features (to be treated seperately later)
+7. Imputing the missing values
+8. Apply Log Transform on Continuous Data only
+9. Transforming Dates
+10. Standardizing the Discrete Values.
+11. Handling Categorical Data using Get_Dummies()
+12. Concatenating the Original Dataset & the One after creating Dummies(get_dummies()
+13. Dropping the columns already concatenated after Get_Dummies()
+14.Splitting X & y
+15. Doing the Train_Test_Split
+16 Using GBoost to fit the Data
+17. Using the Trained Model to Predict
+18. Scoring the Trained Model
 
 #### Competition Description
 
